@@ -1,3 +1,5 @@
+[![forthebadge](http://forthebadge.com/images/badges/certified-snoop-lion.svg)](http://forthebadge.com)
+
 # Dotfiles and Configurations
 
 ## ~/.dotfiles
