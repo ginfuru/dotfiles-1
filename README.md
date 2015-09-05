@@ -18,6 +18,7 @@ This are my public dotfiles. These are config files to set up a system the way I
   - [.bash_profile](/Bash/.bash_profile)
   - [Custom Aliases](/Bash/custom.aliases.bash)
   - [Custom Bash It theme](/Bash/cupcake.theme.bash)
+  - [iTermocil](https://github.com/TomAnthony/itermocil)
 - Git & Github
   - [.gitconfig](/Git/.gitconfig)
   - [.gitignore](/Git/.gitignore)
