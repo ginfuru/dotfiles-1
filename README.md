@@ -22,8 +22,8 @@ This are my public dotfiles. These are config files to set up a system the way I
 
 ### bash theme:
 
-![Mmmm Cupcake!](http://cl.ly/image/0e3w3x3s201X/Screen%20Shot%202015-08-05%20at%202.20.16%20PM.png)
+![Mmmm Cupcake!](Screenshots/cupcake-theme.png)
 
 ### atom theme:
 
-![Ooooh!](https://s3.amazonaws.com/f.cl.ly/items/34243A0K0j0p3n422L3X/Screen%20Shot%202015-08-05%20at%202.17.49%20PM.png)
+![Mmmm Cupcake!](Screenshots/atom-theme.png)
