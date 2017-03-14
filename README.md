@@ -1,4 +1,4 @@
-# Dotfiles and Configurations
+<img src="dotfiles-logo.png" alt="dotfiles logo" width="400">
 
 ## ~/.dotfiles
 
