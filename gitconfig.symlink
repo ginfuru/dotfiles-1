@@ -1,0 +1,9 @@
+[user]
+	name = Mina Markham
+	email = mina.markham@gmail.com
+[push]
+	default = simple
+[fetch]
+	prune = true
+[core]
+	excludesfile = /Users/mina/.gitignore_global

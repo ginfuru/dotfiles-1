@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+
+###############################################################################
+# PATHS, BREWS, RBENV, GEMS & STUFF
+###############################################################################
+
+# Path to NVM
+#----------------------------------------------------------------------------
+	export NVM_DIR="$HOME/.nvm"
+	[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+	[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# Path to Yarn
+#----------------------------------------------------------------------------
+  export PATH="$PATH:/opt/yarn-[version]/bin"
+  export PATH="$PATH:`yarn global bin`"
+
+# tiny-care-terminal environment
+#----------------------------------------------------------------------------
+  export TTC_APIKEYS=false # twitter api keys
+  export TTC_CELSIUS=false
+  export TTC_REPOS='~/tiny.speck/webapp,~/projects/cupcake,~/projects/democrats/pantsuit'
+  export TTC_WEATHER='San Francisco'
+  export TTC_TERMINAL_TITLE=false
+  export TTC_SAY_BOX='parrot' # parrot | bunny | llama | cat | yeoman | mario | ironman | minions | panda | /Users/mina/desktop/cat.ansi
+  export TTC_BOTS='tinycarebot,selfcare_bot,magicrealismbot'
+  export TTC_GITBOT='gitlog' # 'gitstandup' | 'gitlog'
+  #export TTC_REPOS_DEPTH=1
+  #export TTC_UPDATE_INTERVAL=20
+
+  # Twitter api keys
+  # export TTC_CONSUMER_KEY='...'
+  # export TTC_CONSUMER_SECRET='...'
+  # export TTC_ACCESS_TOKEN='...'
+  # export TTC_ACCESS_TOKEN_SECRET='...'
+
+# lolcommits environment
+#----------------------------------------------------------------------------
+  #export LOLCOMMITS_ANIMATE=4
+
+# Path to Dropbox
+#----------------------------------------------------------------------------
+  #export DROPBOX="$HOME/Dropbox"
+
+# Path to Notist
+#----------------------------------------------------------------------------
+  export NOTIST_FEED="https://noti.st/mina.json"
